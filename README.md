@@ -1,4 +1,4 @@
-# 🔢 Modelling 7– Learning Notes (By Yusuf Abdurrahman)
+# 🔢 Modelling 8 – Learning Notes (By Yusuf Abdurrahman)
 
 > *"A model is only as good as the assumptions behind it. Choose wisely, evaluate rigorously."*
 
